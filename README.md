@@ -9,6 +9,8 @@ Here, we have German grammar from A1 to B1, organized and summarized into 4 page
 
 **To Do:** An update covering up to the end of B2 is likely coming !
 
+Made with ❤️
+
 ===========================================================================
 
 **آلمانی در 4 صفحه**
@@ -21,6 +23,8 @@ Here, we have German grammar from A1 to B1, organized and summarized into 4 page
 
 برنامه آینده: آپدیت تا انتهای ب2 به زودی احتمالا!
 
+ساخته شده با ❤️
+
 ===========================================================================
 
 **Deutsch in 4 Seiten**  
@@ -31,6 +35,8 @@ Hier haben wir die deutsche Grammatik von A1 bis B1, systematisch und übersicht
 **Hinweis 2:** Falls Sie Fehler entdecken, eröffnen Sie bitte ein Issue auf GitHub oder senden Sie eine E-Mail an **DeutscheZusammenfassung@proton.me**.  
 
 **Zukünftiger Plan:** Ein Update bis Ende B2 kommt wahrscheinlich bald!
+
+gemacht mit ❤️
 
 ===========================================================================
 
@@ -43,6 +49,8 @@ Aquí tenemos la gramática alemana desde A1 hasta B1, clasificada y resumida en
 
 **Plan futuro:** ¡Una actualización hasta el final de B2 probablemente llegará pronto!
 
+Hecho con ❤️
+
 ===========================================================================
 
 **4 Sayfada Almanca**  
@@ -52,6 +60,8 @@ Burada, A1'den B1'e kadar Almanca dilbilgisi 4 sayfada düzenlenmiş ve özetlen
 **Not 1:** Bu özet, öğrenme değil, gözden geçirme amacıyla hazırlanmıştır!  
 **Not 2:** Herhangi bir hata fark ederseniz, lütfen GitHub'da bir sorun açın veya **DeutscheZusammenfassung@proton.me** adresine e-posta gönderin.  
 
-**Yapılacaklar:** Muhtemelen B2 sonuna kadar bir güncelleme yakında gelecek!  
+**Yapılacaklar:** Muhtemelen B2 sonuna kadar bir güncelleme yakında gelecek! 
+
+❤️ ile yapıldı
 
 ===========================================================================
