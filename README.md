@@ -2,7 +2,7 @@
 
 **Germany in 4 pages**
 
-Here, we have German grammar from A1 to B1, organized and summarized into 4 pages. Everyone is allowed to use it for non-commercial purposes, so read or Print on A3 and enjoy.!  
+Here, we have German grammar from A1 to B1, organized and summarized into 4 pages. Everyone is allowed to use it for non-commercial purposes, so read or Print on A3 and enjoy!  
 
 **Note 1:** This summary is intended for review purposes, not for learning!  
 **Note 2:** If you notice any issues, either open an issue on GitHub or send an email. DeutscheZusammenfassung@proton.me
@@ -15,7 +15,7 @@ Made with ❤️
 
 **آلمانی در 4 صفحه**
 
-اینجا گرامر آلمانی از آ1 تا ب1 را به صورت طبقه بندی شده و خلاصه در 4 صفحه داریم. همه افرادمجاز به استفاده غیر تجاری از آن هستند، پس بخوانید یا روی A3 چاپ کنید و لذت ببرید.
+اینجا گرامر آلمانی از آ1 تا ب1 را به صورت طبقه بندی شده و خلاصه در 4 صفحه داریم. همه افرادمجاز به استفاده غیر تجاری از آن هستند، پس بخوانید یا روی A3 چاپ کنید و لذت ببرید!
 
 نکته1. مورد استفاده این خلاصه برای مرور میباشد نه یادگیری!
 
@@ -44,7 +44,7 @@ gemacht mit ❤️
 
 **Alemán en 4 páginas**  
 
-Aquí tenemos la gramática alemana desde A1 hasta B1, clasificada y resumida en 4 páginas. Todos pueden usarlo para fines no comerciales, así que léanlo o imprímanlo en tamaño A3 y disfrútenlo.  
+Aquí tenemos la gramática alemana desde A1 hasta B1, clasificada y resumida en 4 páginas. Todos pueden usarlo para fines no comerciales, así que léanlo o imprímanlo en tamaño A3 y disfrútenlo!
 
 **Nota 1:** Este resumen está destinado a repasar, no a aprender.  
 **Nota 2:** Si encuentras algún error, abre un issue en GitHub o envía un correo a **DeutscheZusammenfassung@proton.me**.  
